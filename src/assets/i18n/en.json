@@ -1,4 +1,7 @@
 {
 	"welcome": "Welcome English!",
-	"say-hi works!": "This is a test."
+	"say-hi works!": "This is a test",
+	"title": "title",
+	"onboard": "Welcome to CIP",
+	"content": "This is CIP description"
 }
